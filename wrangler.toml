@@ -1,0 +1,5 @@
+name = "asmultiverse"
+type = "javascript"
+account_id = "02d8825d4a851d7d11a80493651f5f26"
+zone_id = "your-zone-id"
+main = "worker.js"
